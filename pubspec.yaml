@@ -14,7 +14,8 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   flutter_responsive_layout:
-    path: ../flutter_responsive_layout
+    git:
+      url: http://github.com/prcryx/flutter_responsive_layout.git
 
 dev_dependencies:
   flutter_test:

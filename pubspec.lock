@@ -73,9 +73,11 @@ packages:
   flutter_responsive_layout:
     dependency: "direct main"
     description:
-      path: "../flutter_responsive_layout"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: "431d732e52262b7d66939c87b4293b451bd2e05c"
+      url: "http://github.com/prcryx/flutter_responsive_layout.git"
+    source: git
     version: "1.0.0"
   flutter_test:
     dependency: "direct dev"
