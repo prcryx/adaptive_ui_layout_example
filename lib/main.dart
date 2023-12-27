@@ -45,6 +45,21 @@ class MyHomePage extends StatelessWidget {
               color: Colors.orange,
               height: 115.h,
               width: 115.w,
+            ),
+            20.hs,
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                const Text(
+                  "16lp",
+                  style: TextStyle(fontSize: 16),
+                ),
+                20.ws,
+                Text(
+                  "16sp",
+                  style: TextStyle(fontSize: 16.sp),
+                ),
+              ],
             )
           ],
         ),
