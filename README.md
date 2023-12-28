@@ -1,1 +1,1 @@
-Example code for `flutter_responsive_layout` package
+Example code for `adaptive_ui_layout` package
